@@ -9,6 +9,14 @@
   },
   "timestamp": "2025-09-17T10:00:00+00:00",
   "tokens": [
+   {
+      "chainId": 1351057110,
+      "address": "0x2bbc5bc40e32cfd0449c524ff5f1ccae5c902825",
+      "decimals": 18,
+      "name": "SaintMary",
+      "symbol": "SaintMary",
+      "logoURI": https://raw.githubusercontent.com/pangolindex/tokens/main/assets/1351057110/0x2bbc5bc40e32cfd0449c524ff5f1ccae5c902825/logo_48.png"
+    },
     {
       "chainId": 1351057110,
       "address": "0x03608815608367D21784F0aD5C77aBa78b88cC17",
@@ -2523,3 +2531,4 @@
     }
   ]
 }
+
